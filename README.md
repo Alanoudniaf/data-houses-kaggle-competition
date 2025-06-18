@@ -1,10 +1,7 @@
 <img src='https://wagon-public-datasets.s3.amazonaws.com/data-science-images/ML/kaggle-batch-challenge.png' width=600>
 
-Welcome to your first Kaggle Competition!
+Welcome to my first Kaggle Competition🔥
 
-Your objective is to **submit an answer online** to the open competition 🔥
-
-Your whole class will compete as a group against the team of TAs!
 
 Download the datasets in the `data` folder:
 
